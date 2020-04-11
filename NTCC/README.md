@@ -1,5 +1,6 @@
-This repository serves all the work for the NTCC project on "Analysis, Visualization and Prediction on COVID-19 Dataset.
-Here is the information regarding each directory.
+This repository serves all the work for the NTCC project on "Analysis, Visualization and Prediction on COVID-19 Dataset" by Tushar Bhatia and Himanshu Raghav under the guidance of Dr. Nancy Girdhar.
+
+Below is the information regarding each directory:
 
 <h1>Base Papers</h1>
 Contains a file with all the base research papers studied for the project,
