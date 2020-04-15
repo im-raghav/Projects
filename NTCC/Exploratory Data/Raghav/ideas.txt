@@ -1,1 +1,73 @@
-Here are the ideas for the project
+Here are the ideas for the project:
+
+
+Objective for the project: Analysis of COVID-19 Dataset(Critical Trends)
+
+
+1). Where are COVID-19 cases increasing?
+Reported coronavirus cases increase around the world country by country over time with global animations. They will show the new daily cases and cumulative cases across the globe.
+a).Cumulative cases over time: Where Covid-19 cases have been reported across the globe.
+The Cumulative Cases animation shows the total number of cases reported in each country at each point in time, regardless of how many people have recovered. Visualizing cumulative cases demonstrates the overall toll of coronavirus on a country over time.
+b).Daily confirmed new cases: Current outbreak activity by country
+Visualizing new cases demonstrates where the coronavirus actively spread during the past one to two weeks.
+
+
+
+2). How is the outbreak growing?
+Seeing the total number of cases over time, on a country-by-country basis, can illustrate how the pandemic is expanding. These charts show cumulative cases – for instance, the number of people who have ever tested positive for coronavirus in a given country, regardless of whether they have recovered. An upward bend in a curve can indicate either a time of explosive growth of coronavirus cases in a given country or a change in how cases are defined or counted. Comparing across countries can also show where the pandemic is growing most rapidly at any point in time
+a).Cumulative cases by days since 1st confirmed case
+Charting the outbreak day by day in each country allows us to see the succession of events as a global story. Because the epidemic began at different times in different countries, viewing each country’s curve from the same starting point can allow us to more easily compare countries. 
+
+b). Cumulative cases by date
+For the ten countries with the highest absolute number of deaths, the lines will show the cumulative number of cases or deaths reported in that country at each date in time. 
+
+
+
+
+
+
+
+
+3). Mortality Analysis
+One of the most important ways to measure the burden of COVID-19 is mortality. Countries throughout the world have reported very different case fatality ratios – the number of deaths divided by the number of confirmed cases. Differences in mortality numbers can be caused by:
+Differences in the number of people tested: With more testing, more people with milder cases are identified. This lowers the case-fatality ratio.
+Demographics: For example, mortality tends to be higher in older populations.
+Characteristics of the healthcare system: For example, mortality may rise as hospitals become overwhelmed and have fewer resources.
+Other factors, many of which remain unknown.
+
+a).Mortality in the most affected countries
+For the 10 countries most affected by COVID-19 worldwide
+
+b).Worldwide mortality
+On a global scale and how each country can be grouped in which category
+
+c).Case fatality rate of COVID-19 by age
+
+
+
+
+4). Has the curve flattened?
+Countries around the world are working to “flatten the curve” of the coronavirus pandemic. Flattening the curve involves reducing the number of new COVID-19 cases from one day to the next. This helps prevent healthcare systems from becoming overwhelmed. When a country has fewer new COVID-19 cases emerging today than it did on a previous day, that’s a sign that the country is flattening the curve.
+a).Daily confirmed new cases (5-day moving average)
+Outbreak evolution for the current 10 most affected countries
+
+
+
+5). Testing for COVID-19
+Testing is our window onto the pandemic and how it is spreading. Without testing we have no way of understanding the pandemic.
+It is one of our most important tools in the fight to slow and reduce the spread and impact of the virus. Tests allow us to identify infected individuals, guiding the medical treatment that they receive. It enables the isolation of those infected and the tracing and quarantining of their contacts.8
+Testing for COVID-19 also informs our understanding of the pandemic and the risks it poses in different populations.This knowledge is important if we are to properly assess the interventions that should be implemented, including very costly interventions such as social distancing and the shutdown of entire regions and industries.
+
+a). Total tests for COVID-19
+b). Tests per day
+
+Outcome = Testing Coverage
+
+
+
+6). COVID-19 compared to other diseases
+In all aspects
+
+
+7). COVID-19 in terms of Healthcare capacity
+The capacity of the healthcare system is of great importance in any country’s response to the pandemic. If there are more critically ill people than there are intensive care facilities, people will die who otherwise might not have.
